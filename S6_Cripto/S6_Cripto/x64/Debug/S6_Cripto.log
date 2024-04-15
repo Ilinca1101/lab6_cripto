@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\ilinc\OneDrive\Desktop\Cripto\S6_Cripto\Header.h(129,26): warning C4244: '=': conversion from 'unsigned __int64' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\ilinc\OneDrive\Desktop\Cripto\S6_Cripto\Header.h(133,10): warning C4244: '/=': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+  S6_Cripto.vcxproj -> C:\Users\ilinc\OneDrive\Desktop\Cripto\S6_Cripto\x64\Debug\S6_Cripto.exe
